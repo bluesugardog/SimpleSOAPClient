@@ -1,4 +1,4 @@
-﻿using SimpleSOAPClient.Helpers;
+﻿using SOAPClient.Api.Helpers;
 using System.Collections.Generic;
 using System.Xml.Linq;
 using Xunit;

@@ -7,7 +7,7 @@
     <Description>Lightweight SOAP client for invoking HTTP SOAP endpoints.</Description>
     <Product>SimpleSOAPClient</Product>
     <Company>Net.JoaoSimoes</Company>
-    <Copyright>Copyright © 2018 João Simões</Copyright>
+    <Copyright></Copyright>
     <Authors>João Simões</Authors>
   </PropertyGroup>
 
@@ -18,7 +18,7 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <GenerateAssemblyTitleAttribute>true</GenerateAssemblyTitleAttribute>
     <GenerateAssemblyDescriptionAttribute>true</GenerateAssemblyDescriptionAttribute>
-    <TargetFrameworks>netstandard1.1;netstandard2.0;net4.5;uap10.0</TargetFrameworks>
+    <TargetFrameworks>netstandard2.1;netstandard2.0;net4.8</TargetFrameworks>
   </PropertyGroup>
 
   <PropertyGroup>
@@ -36,6 +36,9 @@
     <AssemblyVersion>2.0.0</AssemblyVersion>
     <FileVersion>2.1.0.18177</FileVersion>
     <VersionPrefix>2.1.0</VersionPrefix>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
   </PropertyGroup>
 
   <ItemGroup>
